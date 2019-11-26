@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/rojo"
+        android:orderInCategory="100"
+        android:title="Rojo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/azul"
+        android:orderInCategory="100"
+        android:title="Azul"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/verde"
+        android:orderInCategory="100"
+        android:title="Verde"
+        app:showAsAction="never" />
+</menu>
